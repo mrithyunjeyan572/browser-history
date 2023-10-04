@@ -1,0 +1,23 @@
+li{
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 20px;
+}
+.listItems{
+    display: flex;
+}
+.listItems p{
+    margin:10px ;
+}
+button{
+    background-color: transparent;
+    border: 0;
+}
+.noItems{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 90vh;
+}
